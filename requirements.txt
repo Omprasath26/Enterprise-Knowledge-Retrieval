@@ -1,0 +1,14 @@
+docling
+fastapi
+numpy
+openai
+openpyxl
+python-dotenv
+python-multipart
+qdrant-client
+redis
+requests
+sentence-transformers
+streamlit
+uvicorn[standard]
+xlrd
